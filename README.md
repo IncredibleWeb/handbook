@@ -1,6 +1,6 @@
 # Incredible Web Employee Handbook & Culture Code
 
-Originally Incredible Web was a two-man team, both co-founders and sharing the same vision for the company, the culture and the process. As the team grew, new people who joined the team had to figure everything out by themselves and at times it might have been confusing. We created this handbook so that new and prospective employees can learn about how Incredible Web works and learn why we are a great place to work. 
+Originally Incredible Web was a two-man team, both co-founders and both sharing the same vision for the company, the culture and the process. As the team grew, new people who joined the team had to figure everything out by themselves and at times it might have been confusing. We created this handbook so that new and prospective employees can learn about how Incredible Web works and learn why we are a great place to work. 
 
 This handbook will aim to answer questions about remote working, company events, how we structure our development processes and hopefully every other question you may have. It also serves to clarify who Incredible Web are, what we believe in and why we love what we do.
 
