@@ -67,8 +67,6 @@ Moonlighting means working other professional, paid jobs outside of your work at
 
 With that in mind, here is what is not allowed:
 
-### Not OK
-
 1. You can’t work full time or part time for another company in our industry. Speak to Kevin or Shaun if it is unclear.
 
 2. Consult for other companies in our industry where there may be a conflict of interest (a competitor, a product tangentially related to Incredible Web, etc).
