@@ -79,4 +79,4 @@ In general we’d like to be lenient and even encourage it, but we need to make 
 
 ## Company Events
 
-We try to organise company events regularly, atleast once every quarter. We expect that all employees attend company events as these are held during working hours. Company events help bring the entire team together, especially those who are working remotely or that are completely invested in different projects and contribute to the team culture. Company events vary, but we will always advise the team in advance.
+We try to organise company events regularly, at least once every quarter. We expect that all employees attend company events as these are held during working hours. Company events help bring the entire team together, especially those who are working remotely. Company events vary, but we will always advise the team in advance.
