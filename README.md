@@ -20,13 +20,13 @@ The people who work at Incredible Web can become consumed by the awesomeness of 
 
 ## What We Do
 
-As you should probably know by now, Incredible Web is a software provider, specialising in web & mobile applications. We take a proactive approach towards adopting and learning the latest standars and technologies in order to create future-proof designs and are able to apply our skills and knowledge to a diverse range of applications. We have clients all across the globe, ranging from U.S. Senators to local take-away restaurants. Our belief is that good software engineering principles can be applied in different ways to meet different requirements, allowing us to become polymorphic and develop software solutions of different forms and sizes.
+As you should probably know by now, Incredible Web is a software provider, specialising in web & mobile applications. We take a proactive approach towards adopting and learning the latest standards and technologies in order to create future-proof designs and are able to apply our skills and knowledge to a diverse range of applications. We have clients all across the globe, ranging from U.S. Senators to local take-away restaurants. Our belief is that good software engineering principles can be applied in different ways to meet different requirements, allowing us to become polymorphic and develop software solutions of different forms and sizes.
 
-Incredible Web is also part of the Apple Developer programme and has obtained a license which allows it to deploy and publish solutions to the Appstore for iPhone, iPad and Apple Watch. Incredible Web is also a Google Play publisher with the ability to sell priced apps, develop in-­app purchases and/or subscriptions and market your application within the Google Play store.
+Incredible Web is also part of the Apple Developer programme and has obtained a license which allows it to deploy and publish solutions to the Appstore for iPhone, iPad and Apple Watch. Incredible Web is also a Google Play publisher with the ability to sell priced apps, develop in-app purchases and/or subscriptions and market your application within the Google Play store.
 
 ### Bumalift
 
-One of our own "side-project-become-success-story" is Buamlift, a reward-driven carpooling application & API. Bumalift was launched in 2015 with the goal of contributing towards a more sustainable means of transportation in the Maltese islands. Over the years, Bumalift has grown to a platform servicing more than 2,000 users and providing almost 1,000 free monthly rides to University students.
+One of our own "side-project-become-success-story" is Bumalift, a reward-driven carpooling application & API. Bumalift was launched in 2015 with the goal of contributing towards a more sustainable means of transportation in the Maltese islands. Over the years, Bumalift has grown to a platform servicing more than 2,000 users and providing almost 1,000 free monthly rides to University students.
 
 ## How We Work
 
@@ -51,7 +51,7 @@ The Incredible Web office is located on the University of Malta campus in Msida,
 
 ### Remotely
 
-At Incredible Web we are currently "beta-testing" remote working. We are still threading carefully and still encourage most employees to be available at the office; however employees who need to work remotely are able to get permission from a manager. At the moment, on average 20% of development is done remotely.
+At Incredible Web we are currently "beta-testing" remote working. We are still treading carefully and still encourage most employees to be available at the office; however employees who need to work remotely are able to get permission from a manager. At the moment, on average 20% of development is done remotely.
 
 ## Benefits & Perks
 * 24 vacation days per year
