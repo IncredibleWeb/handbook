@@ -54,12 +54,11 @@ The Incredible Web office is located on the University of Malta campus in Msida,
 At Incredible Web we are currently "beta-testing" remote working. We are treading carefully and still encourage most employees to be available at the office; however employees who need to work remotely for definite short periods of time are able to do so following confirmation from their manager. At the moment, on average 20% of development is done remotely.
 
 ## Benefits & Perks
-* 24 vacation days per year
+* 28 vacation days per year
 * 10 fully paid sick days per year
 * 10 sick days at 50% salary per year
 * Remote Working
 * Equipment Grant
-* Free lunch (daily!)
 
 ## Moonlighting
 
@@ -67,7 +66,7 @@ Moonlighting means working other professional, paid jobs outside of your work at
 
 With that in mind, here is what is not allowed:
 
-1. You can’t work full time or part time for another company in our industry. Speak to Kevin or Shaun if it is unclear.
+1. You can’t work full time or part time for another company in our industry. Speak to Shaun if it is unclear.
 
 2. Consult for other companies in our industry where there may be a conflict of interest (a competitor, a product tangentially related to Incredible Web, etc).
 
