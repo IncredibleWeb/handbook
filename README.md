@@ -74,7 +74,7 @@ With that in mind, here is what is not allowed:
 
 4. Take on anything outside of work that’ll pull too much attention from work. For example, if you wanted to launch an app, but the app requires providing timely customer support.
 
-In general we’d like to be lenient and even encourage it, but we need to make sure it is not impacting your performance here at Incredible Web. If you’re in doubt, please reach out to Kevin or Shaun.
+In general we’d like to be lenient and even encourage it, but we need to make sure it is not impacting your performance here at Incredible Web. If you’re in doubt, please reach out to Shaun.
 
 ## Company Events
 
